@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="museum">Museum</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="theather">Theather</string>
+    <string name="underground">Metro</string>
+    <string name="subjectKafka">Kafka museum</string>
+    <string name="descriptionKafka">The long-term exhibition The City of K. Franz Kafka and Prague was opened in Prague in during the summer of 2005.</string>
+    <string name="subjectNarodni">National museum</string>
+    <string name="descriptionNarodni">The National Museum is the largest museum in the Czech Republic. </string>
+    <string name="subjectNarodniTechnicke">National Technical Museum</string>
+    <string name="descriptionNarodniTechnicke">For over a hundred years extensive collections have been assembled here documenting the development of many technical fields.</string>
+    <string name="subjectPrague">Prague museum</string>
+    <string name="descriptionPrague">Prague city museum were approved by the board of aldermen on 3rd October 1881.</string>
+    <string name="subjectRestaurantA">Restaurant A</string>
+    <string name="descriptionRestaurantA">description A</string>
+    <string name="subjectRestaurantB">Restaurant B</string>
+    <string name="descriptionRestaurantB">description B</string>
+    <string name="subjectRestaurantC">Restaurant C</string>
+    <string name="descriptionRestaurantC">description C</string>
+    <string name="subjectRestaurantD">Restaurant D</string>
+    <string name="descriptionRestaurantD">description D</string>
+    <string name="subjectTheatherA">Theather A</string>
+    <string name="descriptionTheatherA">Theather A</string>
+    <string name="subjectTheatherB">Theather B</string>
+    <string name="descriptionTheatherB">Theather B</string>
+    <string name="subjectTheatherC">Theather C</string>
+    <string name="descriptionTheatherC">Theather C</string>
+    <string name="subjectTheatherD">Theather C</string>
+    <string name="descriptionTheatherD">Theather C</string>
+    <string name="subjectUndergroundA">Underground A</string>
+    <string name="descriptionUndergroundA">Undergroud A</string>
+    <string name="subjectUndergroundB">Underground B</string>
+    <string name="descriptionUndergroundB">Undergroud B</string>
+    <string name="subjectUndergroundC">Underground C</string>
+    <string name="descriptionUndergroundC">Undergroud C</string>
+    <string name="subjectUndergroundD">Underground D</string>
+    <string name="descriptionUndergroundD">Undergroud D</string>
+</resources>
